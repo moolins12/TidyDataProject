@@ -4,9 +4,11 @@ This is the course project for the Coursera Course on Getting and Cleaning Data
 All comments describing how the code works can be found in the run.analysis.R file.
 
 Code Book
+
 This code book summarizes the resulting data fields in tidy.txt.
 
 Identifiers
+
 ID - The ID of the test subject
 Activity - The type of activity performed when the corresponding measurements were taken
 
